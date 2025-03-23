@@ -6,7 +6,7 @@ CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a 
 
 
 
-## Approach
+## 
 
 ![CLIP](CLIP.png)
 
